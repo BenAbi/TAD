@@ -1,5 +1,4 @@
 # TAD
-EDA
 Tipos Abstractos de Datos (TAD):
 > Estructura de Datos Lineales;
 > Análisis de Algoritmos;
